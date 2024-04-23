@@ -1,0 +1,729 @@
+/*login*/
+.login h2{
+  color: #000;
+}
+.getstarted1 a{
+color: #fff;
+text-decoration: none;
+}
+.bg {
+  background-color: #fff;
+  padding-bottom: 30px;
+}
+.login-left img {
+position: fixed;
+}
+.login_text {
+color: #fff;
+padding-top: 253px;
+padding-left: 80px;
+scroll-padding-right: 30px;
+}
+.bg-left {
+background-image: url(https://digitxgroup.com/wp-content/uploads/2024/04/Incorplink-GO-GLOBAL-Incorporate-WITH-IncorPLINK.-7.png);
+min-height: 700px;
+max-width: 625px;
+position: fixed;
+background-repeat: no-repeat;
+}
+.login_text strong {
+background-color: #bcf0da;
+font-weight: 400;
+border-radius: 5px;
+color: green;
+padding: 2px 18px;
+font-size: 12px;
+margin-right: 10px;
+}
+.getstarted_face {
+margin-top: 75px!important;
+max-width: 716px;
+margin: 0 auto;
+}
+.get_started_text {
+font-weight: 700;
+font-size: 40px;
+margin-bottom: 20px;
+}
+.rounded{
+  margin-top: 100px;
+}
+/* .banner {
+  width: 500px;
+  height: 500px
+} */
+/* .bg-left {
+  margin-left: 100px;
+  margin-top: 56px;
+} */
+.bg-left-second {
+margin-top: 56px;
+}
+/* .bg-left-first img{
+ max-height: 700px;
+ max-width: 400px;;
+} */
+.login_h1 {
+color: #fff;
+}
+.bg-white {
+background-color: #fff;
+}
+.step_first_top {
+margin-top: 51px;
+}
+.step_first_top h3 {
+font-size: 40px;
+color: #000;
+font-weight: 700;
+margin-bottom: 15px;
+
+}
+/*signup*/
+.signup_form {
+margin-left: 65px;
+margin-top: 55px;
+}
+.usa_step1 {
+border: 1px solid #DEE2E6;
+height: 37px;
+padding: 7px 20px;
+min-width: 80px;
+background-color: #F9FAFB;
+font-weight: 700;
+}
+.step_first_top p{
+background: #E1EFFD;
+padding: 20px;
+color: #4778e3;
+border-radius: 5px;
+margin-bottom: 40px;
+}
+.login_text p,h1{
+  color: #fff;
+}
+.signup_margin {
+  margin-top: 40px;
+  margin-right: 60px;
+}
+
+.white-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.step-badge {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(185, 94, 185);
+  border-radius: 50%;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.step-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.step-text {
+  margin: 0;
+}
+.step-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.step-badge {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #a4cafe;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.step-text {
+  margin: 0;
+}
+
+.step-group {
+  display: flex;
+  flex-direction: column; 
+}
+
+/* Add this CSS to your existing CSS file or component */
+.flow-arrow {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent; /* Adjust the size of the arrow */
+  border-right: 10px solid transparent; /* Adjust the size of the arrow */
+}
+
+/* Arrow from step 1 to step 2 */
+.step-group:nth-child(1) .flow-arrow::after {
+  content: "";
+  position: absolute;
+  top: 34%;
+  right: -7px;
+  transform: translate(-50%, -50%);
+  border: 1px solid #D1D5DB;
+  height: 40px;
+}
+
+/* Arrow from step 2 to step 3 */
+.step-group:nth-child(2) .flow-arrow::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-top: 20px solid #fff; /* Adjust the size and color of the arrow */
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+.intro_p {
+  background: #e1effd;
+  color: #4778E3;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+/*about business page*/
+#pet-select {
+width: 100%;
+height: 40px;
+margin-top: 5px;
+border-color: #D1D5DB;
+}
+.banner-login img {
+position: fixed;
+} 
+.step_four_top .step4 {
+background: none;
+color: #000;
+padding: 0;
+font-size: 20px;
+font-weight: 500;
+}
+form  {
+font-size: 17px;
+font-weight: 500;
+}
+.getstarted1 {
+margin-bottom: 20px;
+}
+.countryselect {
+width: 100%;
+}
+.youhaveshare {
+text-align: center;
+}
+.youhaveshare strong {
+color: #3164F2;
+font-weight: 700;
+}
+.incorp {
+color: #5883F8;
+}
+.payment {
+border: 2px solid #E5E7EB;
+box-shadow: #DEE2E6;
+padding: 20px;
+margin-bottom: 15px ;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+border-radius: 5px;
+}
+.submit_dashboard a {
+color: #000;
+}
+.one-time-free {
+background: #1C64F2;
+padding: 20px;
+border-radius: 10px;
+color: #fff;
+margin-bottom: 20px;
+margin-top: 37px;
+}
+.selectplan {
+margin-top: 75px!important;
+margin-left: 47px;
+}
+.rm1500 {
+float: right;
+margin-top: -66px;
+}
+.makepayment_top h5 {
+text-align: center;
+}
+.makepayment_top p{
+text-align: center;
+}   
+/*forgot_password*/
+.forgot_password img{
+max-width: 555px;
+min-height: 700px;
+} 
+.forgot_button {
+background-color: #0061d5;
+border-radius: 10px;
+color: #fff;
+height: 40px;
+margin: 10px 0;
+font-weight: 700;
+} 
+.forgot_text {
+font-weight: 700;
+} 
+.forget_margin {
+margin-left: 106px;
+margin-top: 100px;
+}
+/*tab styling*/
+.tab_border {
+border: 2px solid #e5e7eb;
+border-radius: 5px;
+padding: 25px;
+margin-bottom: 40px;
+} 
+.tab_con {
+background-color: #f3f4f6; 
+border-radius: 4px;
+padding: 10px;
+margin-bottom: 20px;
+} 
+.tab_con .additional-text {
+margin-top: 10px;
+} 
+.bg-left-select img {
+max-width: 379px;
+}
+.addanotherdirector_btn {
+float: right;
+width: 641px;
+}
+/*dashboards styling*/
+.welcome_dashbaord {
+background-image: url(https://digitxgroup.com/wp-content/uploads/2024/04/bg_card_newdash-65e85ec696cc90be0516a1342ab33a2ba70ace2b2f2c0c3748d32c682f7d19a2.png);
+background-color: #103da0;
+padding: 19px;
+border-radius: 5px;
+padding-right: 189px;
+}
+.dashboardleft_h {
+font-size: 15px;
+color: #fff;
+font-weight: 700;
+}
+.welcome_dashbaord p {
+color: #fff;
+font-size: 13px;
+}
+.welcome_dashbaord a {
+color: #fff;
+}
+.dashboards_first_left h1{
+font-size: 20px;
+color: #000;
+}
+.dashboards_first_left p {
+font-size: 12px;
+}
+.dashboards_first_left {
+margin-top: 30px;
+margin-bottom: 26px;
+}
+.column-right_dash_first {
+margin-top: 30px;
+}
+.btn-1_dash a {
+text-decoration: none;
+width: 115px;
+height: 26px;
+background-color: #F3F4F6;
+color: #3b414d;
+text-align: center;
+font-size: 10px;
+padding: 5px;
+margin-right: 5px;
+font-weight: 700;
+border-radius: 5px;
+float: right;
+}
+.btn-2_dash a {
+width: 158px;
+background-color: #0f68ea;
+color: #fff;
+}
+.dashboards_bg {
+background-color: #fbfbfb;
+}
+.document_billing {
+margin-top: 106px;
+}
+.document_billing a {
+  background-color: #fff;
+  border: 1px solid #f1f2f4;
+  color: #000;
+  width: 167px;
+  float: left;
+  height: 46px;
+  margin: 0;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.document_billing a:hover {
+color: blue;
+background-color: #fafafa;
+}
+/*invoices styling*/
+.invoices_bg {
+  background-color: #f3f6fb;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.invoices_img {
+max-width: 400px;
+}
+.invoices_right {
+margin-top: 106px;
+margin-left: 50px;
+margin-right: 30px;
+}
+.invoices_right strong {
+font-weight: 500;
+background-color: #e5e7eb;
+border-radius: 6px;
+font-size: 9px;
+padding: 4px 11px;
+}
+.invoices_right h5 {
+margin-top: 10px;
+}
+.invoices_right p {
+font-size: 14px;
+}
+.bottom_text_invoces {
+text-align: center;
+font-size: 12px;
+}
+.account_bg {
+background-color: #103da0;
+border-radius: 5px;
+max-width: 900px;
+margin: 0 auto;
+margin-top: 40px;
+}
+/*account styling*/
+.account {
+margin: 25px 36px;
+}
+.account h5 {
+color: #fff;
+}
+.account p {
+color: #fff;
+font-size: 13px;
+}
+.btn_account {
+width: 147px;
+height: 40px;
+background-color: #fff;
+color: #000;
+text-align: center;
+FONT-SIZE: 12PX;
+border: none;
+border-radius: 5px;
+margin-left: 32px;
+margin-bottom: 23px;
+}
+
+/*sidebar menu*/
+.containerside {
+  display:flex;
+}
+main{
+  width: 100%;
+  padding: 20px;
+}
+.sidebar{
+  background: #000;
+  color: #fff;
+  height: 100vh;
+  min-height: 700px;
+  transition: all 0.5s;
+}
+.top_section{
+  display: flex;
+  align-items:center;
+  /* padding:20px 15px; */
+}
+.logo{
+  font-size: 30px;
+}
+.bars{
+  display: flex;
+  font-size: 25px;
+  margin-left: 50px;
+}
+.link{
+  display: flex;
+  color: #fff;
+  padding: 10px 15px;
+  gap: 15px;
+  transition: all 0.5s;
+  text-decoration: none;
+}
+.link:hover{
+  background:lightskyblue;
+  color: #000;
+  transition: all 0.5s;
+}
+.active{
+  background: lightskyblue;
+  color: #000;
+}
+.icon, .link_text {
+  font-size: 15px;
+}
+.sidebar_logo {
+  max-width: 100px;
+  max-height: 77px;
+}
+/*legal page styling*/
+.legal_right strong {
+  background-color: #0e9f6e;
+  color: #fff;
+}
+/*banks page styling*/
+.bank_bg {
+  background-color: #fbfbfb;
+}
+.bank_sec {
+  background-color: #fff;
+  border: 1px solid #f1f2f4;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.bank_logo {
+  float: left;
+  margin-right: 20px;
+}
+.bank_img {
+  max-width: 100px;
+  max-height: 100px;
+}
+.bank_text {
+  position: relative;
+}
+.bank_text h5 {
+  font-size: 17px;
+}
+.bank_text p {
+  font-size: 12px;
+  margin-bottom: 0px;
+}
+.banks_right {
+  margin-top: 82px;
+}
+/*perks styling*/
+.perks_p {
+  font-size: 13px;
+}
+.perks_logo {
+  background-color: #76edcf;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+.perks_img {
+  max-width: 60px;
+  max-height: 60px;
+}
+.perks_sec {
+  padding: 0;
+  border-radius: 5px;
+}
+.perks_text h5 {
+  font-size: 14px;
+  margin: 15px 0;
+}
+.perks_text span {
+  width: 152px;
+  height: 16px;
+  border-radius: 8px;
+  background-color: #e5e7eb;
+  color: #000;
+  font-size: 10px;
+  display: inline-block;
+  text-align: center;
+}
+.perks_text {
+  padding: 10px 15px;
+}
+.hori_color {
+  background-color: #3c763d;
+}
+.polisrti_color {
+  background-color: #0951aa;
+}
+.get_color {
+  background-color: #b9ebff;
+}
+.alignments_color {
+  background-color: #edf4f5;
+}
+.moneymatch_color {
+  background-color: #faf9f6;
+}
+
+/* Account Menu */
+.account_menu {
+  position: absolute;
+  bottom: 10px;
+  left: 149px;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+}
+
+.account_menu_item {
+  padding: 5px 13px;
+  cursor: pointer;
+  min-width: 150px;
+  display: block;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+
+.account_menu_item:hover {
+  background-color: blue;
+  color: #fff;
+}
+/*your companies styling*/
+.companies {
+  background-color: #F3F6FB;
+  height: 100vh;
+  padding-top: 50px;
+}
+.companybutton {
+  width: 177px;
+  height: 38px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #0061d5;
+  color: #fff;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 9px;
+  border-radius: 7px;
+}
+.company_button_sec {
+text-align: right;
+}
+/*registercompanies*/
+.register_companies {
+  background-color: #F3F6FB;
+  height: 100vh;
+  padding-top: 16px;
+}
+.secregister_bg {
+  background-color: #fff;
+  text-align: center;
+  border-radius: 3px;
+  padding: 70px;
+}
+.coming_reg {
+ background-color: #f7f7f7;
+  color: #000;
+}
+.go_back_acc {
+  text-align: center;
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  padding-top: 24px;
+}
+
+/*profile styling*/
+.profile {
+  margin-top: 30px;
+  background-color: #fbfbfb;
+}
+.profilebtn {
+  display: inline-block;
+  width: 217px;
+  height: 48px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border: 1px solid #fff;
+  border-radius: 5px 0px 0px 0px;
+  color: #000;
+  background-color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+  padding: 13px;
+}
+.profilebtn:active,
+.profilebtn:focus {
+  background-color: #0951aa;
+  color: #fff;
+}
+.profilebtn.active {
+  background-color: #0951aa; /* Active background color */
+  color: #fff; /* Active text color */
+}
+.bgprofile_left {
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+.btn_up {
+  margin-top: 10px;
+}
+.edit_profile {
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+
+
